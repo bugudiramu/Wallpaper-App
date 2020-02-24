@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">WallApp</string>
+    <string name="album_title">Album Title</string>
+    <string name="image_desc">Image description</string>
+    <string name="wall_type_text">Gray Canyon</string>
+    <string name="avatar_name">Avatar Name</string>
+</resources>
